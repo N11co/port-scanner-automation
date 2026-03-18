@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicho\\Desktop\\port-scanner-automation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicho\\Desktop\\port-scanner-automation\\scanner.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scanner.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "scanner.py",
+              "DocumentMoniker": "C:\\Users\\nicho\\Desktop\\port-scanner-automation\\scanner.py",
+              "RelativeDocumentMoniker": "scanner.py",
+              "ToolTip": "C:\\Users\\nicho\\Desktop\\port-scanner-automation\\scanner.py",
+              "RelativeToolTip": "scanner.py",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFoAAAAHAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAfSSURBVFhHpZZ5jFXVHcc/59ztvdmZUWbKItMOihY1VSe1KDIgKKRGWhuopFrLKBW7uNQFYzWNGhtxr3WjRW3a1DRutaSxpalUR2sFhCAhMo4gIzggy7xhBt689d7z6x/33jdvnlNb0m9ycl5\u002B59zz/f6W83sHjgFTe5\u002BaP2Hv01ub9zyRnrjrl3dUrpfjkcNLWq/5tPPFSvsoiIiqtI2FuftXrhpOep27/Fo3yBWwgwArCLB805U0ZtGH027uL9//4NCllyVEP/74oca6D058wipfq8R/FHDFwK0nuL7zql2jp\u002B\u002B3qtT7qToGUGhjsPxIQCjiqFJ07jplxct3Hl7aUK1yqxNKFvXkErww0MCc2sy05yet/rDy/Bi60nDrgRt/8NjAj47OrU7vntqYO/VI3lUbDjWQQoEIyhiUCFoEbQwoagX10pzen3UldP59V7HIVcLb6WrqLEON9mdVcpSjJODefT/\u002B7fP9V2bOSww8aWNqdg65bNqXZG22ibwVhkrHxGJKQizgzJp9XDBuxywPmeAi7M275AJNgw5whLNHU46GBrh6900zG\u002B3CFX1\u002BIrl5uJZdmQT9OZuPcx5eoQAikfcjQxtDvZPjwqYezqjdj6sEF8FVwrZskgbL0KANrpKTKknLoQBW9N2waLKTezFtbNLGIm1s/njdKgDEB1OUcPYFKQpmLFsx\u002Bl1aG20TM3bBa4Cc0dMKoimIIpzDzEgA4gsSlB0\u002Bls0HCSKi0lqZzUglbwkawEHGxcQF0RRQJfJ3frOdDb/bzrt/6GbTC908c89ztE5oKxHVVdXzyN2P07Ohl8ynRXZu/ZgbfvgTLGWFIiJy\u002B7UjN1aSEwvwlW4r934osCMBMLl5Cp6b4O3Nb1KVrGHh3G\u002Bx6p5nMT54lse6l95i2eVX09R4HBs3baB5fAs/v\u002Btezjl7JhKMeG61uA85G9JbWZ9u/owAC2kq936fnwhzGISbduzu4dq7r\u002BaiK89nR28P7aefzYlTTuKaK67lpLZpvPmvLtpOa2Xm3HM4\u002BbRpLL50Ma\u002Bve72cByzQTe7pbpPT572bviE2awCB5lhAXjT9vltKAdEG4wt79\u002B0ldThsep6dYMZZ5wDw2FOP0n/wEOJD765e1ryyJj5/BFqBpVBJ22ZK9SNOd34r29LNsYDq2Pv\u002BwKGICgssikD7qV9ly5972NHVx9fOPJe/d/2Nrdvew3MTAKQOpUYXnYxRdJYqiUCF0bAzPKsBDKo\u002B9v5Q4EF0A0wUgaEjQ/xzYxe//v1TLL3uMhZ3fhPjw8ZN6wFYsvg7YcqiomtpaSmnDqEVC5KbQIPkAvwtg6h9mdsBuP6Tm\u002BSqPStk0cc/lS913ycdO\u002B6S42ckpKk9ISIib23skrpprtS2OVJ9giNVE2xJHG/J\u002BNYm6ev7RERE3njjdVm\u002BfLmsXr1astmszJ8/X8LghmPncKdkcxfJkj3rxFrTL/afDv0VQN/Se0tLyXvfZYKdZ2HtgVJIITyi5GEgpfQcTh2mY14H69a9RkfHbFatWsWyZctYu3YtmzdvHhWAVusAReDb6h8oASz1IIDOW3JcgfAK5kVzflWKtLEjImj4ssfXL5sXFmWc47gJBdD7US/z5l3AuHHjmDFjBrW1tVxyySX094/6h0aAosBZ9R\u002BBpd7zLz5uHYAORDfnRTMsFl/xjjJkbAYCJyIKW\u002BroTjhii2eAwcFB1q9fTzqdHkUcI48iQDHOPcop9XufjO06B5MKoikEoYhU4JAKnDFbr1TYyjvdf0NWFBIWPO\u002B031Eb23Ue3VIQDUpIBS4DxiVlRvrAKMKS7djIATKiMYQibB1cHNt1XtSk/sDhqAk9j0clYSzI\u002BGGLLm\u002Bz/wv8sithlGqP7bog9pSBMuJU4IQ1MMrrsr/V6BYcK0w0BDAiNSJzmwF0wZfxWWPhiyIoG3GVZ/cXyaV8CkMBxUxAUDCIyNjd7nMQk4uEcyHnXQ\u002Bgzui5p3vQOCdXfrB/zu2IL/zq0WfAhO1V4lMidHZ2ln/yufggs5CkEpIInhISyBYv8Zcz1dTt9x0OFA2lnaKQwGL/\u002BSswxSgN0SvoWPNeju2Zb1ClhCQGT4GHFJKJVz1tBAdjIQWXIFONP1xDkKkp63rRy\u002Bj/IKeU\u002B/AaRsXoSnrB6WrS\u002Bw83WsY8gFjfUyKWGAtEI0ZjjAWBxfcnbuPCpj0kEDxFNAsJJTgILmCX5yZCRjRbAicMfRT\u002Bqug7D8ET9bTum37jwO7Tbr7KtWjHDt5SdhGsIsopop0C2s0zMTmMCziK0svXQ7CRsMVGZFkUeVHkIy8Pih4pvjgKo65jMPszL9W2noeXBL65F6EVUYjRXN64m8X1e2lzMjgqPCQQCIAiiqIoiihyKLKiyKIYFsWL\u002BWpEYLLt06QMtcqQBDwleMowmeLQZwQAtPbemSCXuE2MdZMSqjEaQVF9YDKLxu9g4cRuplYNGqWMHhEAOTS5SMCAaF4tJJmgAr6gA8brgEZt8AWyogZcUStn1738wJgCYrTtfGhyUPTvV4YlRjSZD89A2YWiW3\u002Bws69j6XPZ7IKZgbavKRg6MsLELFrlRJFD0xPYpIxFsw6oVwYXBhxlVs6qeeWBco7PFRDji9tXzhLhF9ne6Q0Je/Dc3Qu\u002B\u002B2nlHpHZiYOZ6ivzSi8\u002Bgm7v9p3qKiVH62yePC/58m2V\u002B2P8G0Ck6jth2BwxAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-03-17T22:54:22.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
