@@ -1,35 +1,36 @@
 name: Security Automation Check
 
 on:
-	push:
-		branches: [ main ]
-	pull_request:
-		branches: [ main ]
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
 
 jobs:
-	security-check:
-		runs-on: ubuntu-latest
-		steps:
-			- name: Check out code
-			  uses: actions/checkout@v3
+  security-check:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out code
+	uses: actions/checkout@v3
 
-			- name: Set up Python
-			  uses: actions/setup-python@v4
-			  with:
-				python-version: '3.10'
+      - name: Set up Python
+	uses: actions/setup-python@v4
+	with:
+	  python-version: '3.10'
 			
-			- name: Install dependencies
-			  run: |
-				pip install flake8
+      - name: Install dependencies
+	run: |
+	  pip install flake8
 
-			- name: Run code quality check (flake8)
-			  run: |
-				flake8 scanner.py --max-line-length=120 --statistics
+      - name: Run code quality check (flake8)
+	run: |
+	  flake8 scanner.py --max-line-length=120 --statistics
 
-			- name: Run port scanner (smoke test)
-			  run: |
-				python scanner.py
+      - name: Run port scanner (smoke test)
+	run: |
+	  python scanner.py
 
-			- name: Display scan report
-			  run: |
-				cat scan_report.json
+      - name: Display scan report
+	run: |
+	  cat scan_report.json
