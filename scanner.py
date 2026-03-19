@@ -9,7 +9,7 @@ PORTS_TO_SCAN = [21,22,23,25,80,443,3306,3389,8080,8443]
 
 def check_port(ip, port, timeout=1):
 	try:
-		sock = socket.socket(socket.AF_INET, socket.SOCKET_STREAM)
+		sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 		sock.settimeout(timeout)
 		result = sock.connect_ex((ip, port))
 		sock.close()
@@ -27,7 +27,7 @@ def scan_target(ip):
 	for port in PORTS_TO_SCAN:
 		is_open = check_port(ip, port)
 
-		if is open:
+		if is_open:
 			open_ports.append(port)
 			print(f" [OPEN] Port {port}")
 
